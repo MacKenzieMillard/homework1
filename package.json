@@ -1,0 +1,14 @@
+{
+  "name": "homework1",
+  "version": "1.0.0",
+  "description": "homework 1 for n315/n320",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "serve": "live-server"
+  },
+  "author": "MacKenzie Millard",
+  "license": "ISC"
+}
